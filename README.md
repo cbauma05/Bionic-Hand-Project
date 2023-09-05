@@ -1,4 +1,5 @@
-# MCC_Robotic_Hand
+# Welcome to my Summer 23' Engineering Project!
+This project is split into 3 main components described below.
 
 ## Transmitter
 The Transmitter code is responsible for the debounced button logic that waits for the user to start the sequence after powering on. It allows the user to toggle between what mode they want to have active from the glove. (Either user control ON or OFF)
@@ -10,3 +11,5 @@ The receiver code is responsible for the receiving values sent from the glove tr
 
 ## LCD Display
 The LCD Display code shows the startup sequence and will provide live feedback of all Servo rotation values with its own RF24 receiver. The LCD will provide feedback based on which mode is active or if there is some kind of wireless connection error.
+
+
