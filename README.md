@@ -1,4 +1,5 @@
 # Welcome to my Summer 23' Engineering Project!
+Over the past 3 months, 2 other Computer Engineering students and I started designing, prototyping, and building a wireless gesture-controlled robotic hand with multiple functions and a screen with a live feedback display. It fully consists of 3D-printed parts that we designed in Solidworks that house the hardware and microcontrollers responsible for controlling the servos in the hand as well the LCD screen. It also includes a custom wearable glove with flex sensors on each finger integrated into a circuit controlled by an Arduino Nano with a radio transmitter. The user has the ability to control the robotic hand with the glove so their motions are mirrored by the robot. The user will also have the ability to toggle between modes wirelessly and have the robot run through some pre-programmed gestures. This will occur while the LCD provides live feedback of which mode is active, all of the servo rotation values, and error handling if there is an issue with the wireless connection.
 This project is split into 3 main components described below.
 
 ## Transmitter
