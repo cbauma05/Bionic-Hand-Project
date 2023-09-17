@@ -14,7 +14,7 @@ The receiver code is responsible for the receiving values sent from the glove tr
 The LCD Display code shows the startup sequence and will provide live feedback of all Servo rotation values with its own RF24 receiver. The LCD will provide feedback based on which mode is active or if there is some kind of wireless connection error.
 
 <p align="center">
-  <a href="[https://www.youtube.com/shorts/3ULT0zy-e6k](https://youtube.com/shorts/nZMyS09LJu8?feature=share)">
+  <a href="https://youtube.com/shorts/nZMyS09LJu8?feature=share">
     <img src="download.png" alt="Watch the video" />
   </a>
 </p>
